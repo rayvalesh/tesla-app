@@ -7,17 +7,37 @@ function Home() {
     <Container>
         <Section 
           title ="Mode S"
-          description = "Delivery"
+          description = "Orde Online for Touchless Delivery"
           leftbtnText= "Order"
           rightbtnText= "inventory"
           backgroundImg= "model-s.jpg"
         />
         <Section 
-          title ="Mode S"
-          description = "Delivery"
+          title ="Mode 3"
+          description = "Orde Online for Touchless Delivery"
           leftbtnText= "Order"
           rightbtnText= "inventory"
-          backgroundImg= "model-s.jpg"
+          backgroundImg= "model-3.jpg"
+        />
+        <Section 
+          title ="Mode X"
+          description = "Orde Online for Touchless Delivery"
+          leftbtnText= "Order"
+          rightbtnText= "inventory"
+          backgroundImg= "model-x.jpg"
+        />
+        <Section 
+          title ="Mode Y"
+          description = "Orde Online for Touchless Delivery"
+          leftbtnText= "Order"
+          rightbtnText= "inventory"
+          backgroundImg= "model-y.jpg"
+        />
+        <Section 
+          title ="Accessories"
+          description = "Orde Online for Touchless Delivery"
+          leftbtnText= "Order"
+          backgroundImg= "accessories.jpg"
         />
         {/* <Section />
         <Section />
